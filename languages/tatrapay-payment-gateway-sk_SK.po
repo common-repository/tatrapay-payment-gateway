@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tatrapay+ Payment Gateway for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/plugin\n"
+"Last-Translator: <developers@tatrabanka.sk>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-23T14:01:15+00:00\n"
+"PO-Revision-Date: 2024-07-23 16:06+0200\n"
+"Language: sk\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: tatrapay-payment-gateway\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. Plugin Name of the plugin
+#: tatrapayplus.php
+msgid "tatrapay+ Payment Gateway"
+msgstr "tatrapay+ Platobná Brána"
+
+#. Plugin URI of the plugin
+#: tatrapayplus.php
+msgid "https://www.tatrabanka.sk/sk/business/ucty-platby/prijimanie-platieb/tatrapay-plus/"
+msgstr "https://www.tatrabanka.sk/sk/business/ucty-platby/prijimanie-platieb/tatrapay-plus/"
+
+#. Description of the plugin
+#: tatrapayplus.php
+msgid "Latest payment processing solution from Tatrabanka. Accept Pay Later, credit/debit cards and bank accounts."
+msgstr "Najnovšie riešenie spracovania platieb od Tatrabanky. Prijímajte Pay Later, kreditné/debetné karty a bankové účty."
+
+#. Author of the plugin
+#: tatrapayplus.php
+msgid "devtatrabanka"
+msgstr "devtatrabanka"
+
+#. Author URI of the plugin
+#: tatrapayplus.php
+msgid "https://www.tatrabanka.sk/sk/personal/"
+msgstr "https://www.tatrabanka.sk/sk/personal/"
+
+#: includes/class-tatrapayplus-gateway.php:176
+msgid "Client ID"
+msgstr ""
+
+#: includes/class-tatrapayplus-gateway.php:178
+msgid "Client ID from developers portal https://developer.tatrabanka.sk/"
+msgstr "Client ID z portálu pre vývojárov https://developer.tatrabanka.sk/"
+
+#: includes/class-tatrapayplus-gateway.php:181
+msgid "Client secret"
+msgstr ""
+
+#: includes/class-tatrapayplus-gateway.php:183
+msgid "Client secret from developers portal https://developer.tatrabanka.sk/"
+msgstr "Client secret z portálu pre vývojárov https://developer.tatrabanka.sk/"
+
+#: includes/class-tatrapayplus-gateway.php:253
+msgid "Enable debug logs"
+msgstr "Zapnúť debug výpisy"
+
+#: includes/class-tatrapayplus-gateway.php:255
+msgid "Show response from gateway in order notes."
+msgstr "Zobraziť odpoveď z brány v poznámkach k objednávke."
+
+#: includes/class-tatrapayplus-gateway.php:93
+#: includes/class-tatrapayplus-gateway.php:164
+msgid "tatrapay+"
+msgstr "tatrapay+"
+
+#: includes/class-tatrapayplus-gateway.php:85
+msgid "Everything you need for accepting online payments"
+msgstr "Všetko, čo potrebujete na prijímanie online platieb"
+
+#: includes/class-tatrapayplus-gateway.php:161
+msgid "Title"
+msgstr "Názov"
+
+#: includes/class-tatrapayplus-gateway.php:163
+msgid "This controls the title which the user sees during checkout."
+msgstr "Tento názov sa zobrazí používateľovi počas platby."
+
+#: includes/class-tatrapayplus-gateway.php:193
+msgid "Description"
+msgstr "Popis"
+
+#: includes/class-tatrapayplus-gateway.php:688
+msgid "File upload failed"
+msgstr "Nahrávanie súboru zlyhalo"
+
+#: includes/class-tatrapayplus-gateway.php:590
+#: includes/class-tatrapayplus-gateway.php:594
+msgid "Unable to connect with tatrapay+, please check your credentials."
+msgstr "Nie je možné sa pripojiť k tatrapay+, skontrolujte svoje prihlasovacie údaje."
+
+#: includes/class-tatrapayplus-gateway.php:614
+#: includes/class-tatrapayplus-gateway.php:627
+#: includes/class-tatrapayplus-gateway.php:629
+msgid "Unable to set appearance logo."
+msgstr "Nie je možné nastaviť logo."
+
+#: includes/class-tatrapayplus-gateway.php:660
+#: includes/class-tatrapayplus-gateway.php:662
+msgid "Unable to set appearance colors."
+msgstr "Nie je možné nastaviť farby vzhľadu."
+
+#: includes/class-tatrapayplus-gateway.php:167
+msgid "Mode"
+msgstr "Režim"
+
+#: includes/class-tatrapayplus-gateway.php:199
+msgid "Company logo"
+msgstr "Logo spoločnosti"
+
+#: includes/class-tatrapayplus-gateway.php:200
+msgid "Shown in payment gateway"
+msgstr "Zobrazené v platobnej bráne"
+
+#: includes/class-tatrapayplus-gateway.php:204
+msgid "Default theme"
+msgstr "Predvolená téma"
+
+#: includes/class-tatrapayplus-gateway.php:186
+msgid "ComfortPay"
+msgstr "ComfortPay"
+
+#: includes/class-tatrapayplus-gateway.php:214
+msgid "Button theme"
+msgstr "Téma tlačidla"
+
+#: includes/class-tatrapayplus-gateway.php:195
+msgid "This controls the description which the user sees during checkout. Keep empty to use default description."
+msgstr "Toto riadi popis, ktorý používateľ vidí pri nákupe. Ak chcete použiť predvolený popis, ponechajte prázdne."
+
+#: includes/class-tatrapayplus-gateway-blocks-support.php:42
+#: includes/class-tatrapayplus-gateway.php:88
+msgid "Pay securely through the tatrapay+ payment gateway with a payment card or bank transfer."
+msgstr "Plaťte bezpečne prostredníctvom platobnej brány tatrapay+ platobnou kartou alebo bankovým prevodom."
+
+#: includes/class-tatrapayplus-gateway-blocks-support.php:43
+#: includes/class-tatrapayplus-gateway.php:89
+msgid "Pay securely using the tatrapay+ payment gateway with a payment card, bank transfer or the Na splátkyTB method."
+msgstr "Plaťte bezpečne pomocou platobnej brány tatrapay+ platobnou kartou, bankovým prevodom alebo metódou Na splátkyTB."
+
+#: includes/class-tatrapayplus-gateway.php:205
+msgid "Payment gateway color theme."
+msgstr "Téma farieb platobnej brány."
+
+#: includes/class-tatrapayplus-gateway.php:215
+msgid "This controls the color of PayLater button on product detail and catalog. Button is show for products with a price higher than €100 up to €30,000 (according to current conditions)."
+msgstr "Týmto sa ovláda farba tlačidla 'Na splátkyTB' na detaile produktu v katalógu. Tlačidlo sa zobrazuje pri produktoch s cenou vyššou ako 100 € až do 30 000 € (podľa aktuálnych podmienok)."
+
+#: includes/class-tatrapayplus-gateway.php:224
+#: includes/class-tatrapayplus-gateway.php:342
+msgid "Color guide"
+msgstr "Popis farieb"
+
+#: includes/class-tatrapayplus-gateway.php:228
+msgid "Payment button text color - dark mode"
+msgstr "Farba textu tlačidla platby - tmavý režim"
+
+#: includes/class-tatrapayplus-gateway.php:232
+msgid "Payment button color - dark mode"
+msgstr "Farba tlačidla platby - tmavý režim"
+
+#: includes/class-tatrapayplus-gateway.php:236
+msgid "Action text color - dark mode"
+msgstr "Farba textu akcie - tmavý režim"
+
+#: includes/class-tatrapayplus-gateway.php:240
+msgid "Payment button text color - light mode"
+msgstr "Farba textu tlačidla platby - svetlý režim"
+
+#: includes/class-tatrapayplus-gateway.php:245
+msgid "Payment button color - light mode"
+msgstr "Farba tlačidla platby - svetlý režim"
+
+#: includes/class-tatrapayplus-gateway.php:249
+msgid "Action text color - light mode"
+msgstr "Farba textu akcie - svetlý režim"
+
+#: includes/class-tatrapayplus-gateway.php:187
+msgid "Save user payment card during the payment."
+msgstr "Uožiť platobnú kartu používateľa počas nákupu."
+
+#: includes/class-tatrapayplus-gateway.php:189
+msgid "To set up Comfortpay, it is necessary for the merchant to have concluded a contract on the operation of the Comfortpay service."
+msgstr "Pre nastavenie Comfortpay je potrebné, aby mal obchodník uzavretú zmluvu o prevádzkovaní služby Comfortpay."
+
+#: includes/class-tatrapayplus-gateway.php:220
+msgid "Disabled"
+msgstr "Vypnuté"
+
+#: includes/class-tatrapayplus-gateway.php:1093
+msgid "Payment failed"
+msgstr "Platba zlyhala"
+
+#: includes/class-tatrapayplus-gateway.php:747
+msgid "Please add this Redirect-URI to developers portal:"
+msgstr "Pridajte túto Redirect-URI na portál pre vývojárov:"
